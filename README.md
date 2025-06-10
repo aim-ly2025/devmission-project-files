@@ -1,2 +1,2 @@
 # devmission project files
-Summer 2925
+Summer 2025 Tech Pre-Aprrenticeship
